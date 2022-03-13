@@ -1,4 +1,5 @@
-chown -R 200 ./nexus-storage
+### Nexus Repository Manager Dockerized
 
-
-cmd above should use
+- first execute this command : 
+`chown -R 200 ./nexus-storage`
+- for adding ports, add ports like docker compose and in the nexus repository you can access it
